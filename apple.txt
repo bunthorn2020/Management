@@ -1,0 +1,5 @@
+Open SQL Server Management Studio and connect to your database.
+Right-click on your database and select Tasks then Import Data from the menu.
+The SQL Server Import and Export Wizard will open.
+Choose a data source for the data you want to import from the drop down. ...
+Define the formatting of your data source.
